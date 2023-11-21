@@ -1,0 +1,28 @@
+autumn:
+Autumn, a transitional season marked by the changing colors of leaves and a gradual shift from warm to cooler temperatures, holds a unique charm. Nature undergoes a breathtaking transformation as vibrant greens give way to a rich tapestry of red, orange, and yellow hues. The crisp air carries the earthy scent of fallen leaves, evoking a sense of nostalgia.
+As daylight wanes, shadows lengthen, casting a golden glow upon the landscape. Trees shed their foliage, creating a mosaic of crunching leaves underfoot. Animals prepare for winter, and birds embark on migratory journeys, adding to the seasonal spectacle.
+
+
+winter:
+
+Winter is the coldest season, characterized by low temperatures, shorter days, and longer nights. Snowfall is common in many regions, transforming landscapes into a serene blanket of white. People often engage in winter activities such as skiing, snowboarding, and ice skating. Warm clothing, including coats, scarves, and gloves, becomes essential for staying comfortable outdoors. Winter is also associated with holidays like Christmas and New Year, fostering a sense of joy and festive spirit.
+
+
+summer:
+Summer is the warmest season of the year, typically characterized by longer days and shorter nights. It occurs between spring and autumn and is known for its high temperatures. People often associate summer with activities such as beach outings, barbecues, picnics, and outdoor sports. The season is marked by vibrant colors, with flowers in full bloom and lush green landscapes. Many cultures celebrate summer festivals and holidays, making it a time of joy and relaxation. However, it can also bring challenges like heatwaves and increased energy consumption for cooling. Overall, summer is a season of sunshine, warmth, and a variety of outdoor experiences.
+
+spring:
+Spring is a season of renewal and rebirth. As winter's chill recedes, nature awakens with a burst of vibrant colors and fragrant blooms. Trees adorned with fresh leaves, and fields carpeted in blossoms, create a picturesque landscape. The air is filled with the sweet melody of birds returning from migration. Temperatures rise, bringing a gentle warmth that beckons people outdoors. Spring symbolizes hope and new beginnings, as life emerges from the dormancy of winter.
+
+.navigation{
+        z-index: 99999;
+        position:fixed;
+        width:100%;
+        height:100vh;
+        top:0;
+        left:0;
+        background:rgba(0 ,0 ,0 ,0.25);
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
